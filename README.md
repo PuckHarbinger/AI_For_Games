@@ -1,2 +1,9 @@
-# AI_For_Games
-This is the repository for the module 'AI For Games'
+# 3D Maze Game with Human-AI Interactions
+### By: Rajesh Rampure Ramrao & Cong Liu
+If you want to launch the game, just download the repository and then click the NewMaze.exe file.
+And if you want to see the modification and all the assets, you can add all of this file into UnityHub
+Please click the Scene2 and start it first.
+Scene2 is the StartMenu Scene, and SampleScene is the Main Game scene.
+
+
+#### Remember: We don't have the Pause Function, so if you want to quit the game, just press alt+F4.
