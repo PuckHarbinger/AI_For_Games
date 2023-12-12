@@ -6,4 +6,4 @@ Please click the Scene2 and start it first.
 Scene2 is the StartMenu Scene, and SampleScene is the Main Game scene.
 
 
-# Remember: We don't have the Pause Function, so if you want to quit the game, just press alt+F4.
+#### Remember: We don't have the Pause Function, so if you want to quit the game, just press alt+F4.
